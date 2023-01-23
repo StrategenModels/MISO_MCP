@@ -1,5 +1,5 @@
 # misomcp
-Pulls MISO day ahead market MCPs for a specified day range
+Pulls MISO day ahead market MCPs for a specified date range
 
 This is a jupyter lab file, easiest for me to use but you can apply the same logic to any applicaiton you like.
 
